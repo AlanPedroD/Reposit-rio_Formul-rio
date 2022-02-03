@@ -1,0 +1,29 @@
+*{
+    margin: 0%;
+    box-sizing: border-box;
+    display: block;
+}
+body{
+    margin: 10px;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500&family=Lobster+Two:ital,wght@1,400;1,700&family=Source+Sans+Pro:wght@700&display=swap');
+
+
+label{
+    padding-bottom: 10px;
+}
+fieldset{
+    background-color: #eee;
+    margin-bottom: 20px;
+    border: 2px solid rgba(201, 46, 46, 0.685);
+}
+legend{
+    background-color: saddlebrown;
+    color: white;
+    padding: 10px;
+}
+h1{
+    margin-bottom: 10px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
